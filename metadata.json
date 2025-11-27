@@ -1,0 +1,5 @@
+{
+  "name": "Tres en raya",
+  "description": "A modern, responsive, and polished implementation of the classic Tic-Tac-Toe game featuring move history, win detection, and a sleek glassmorphism design. Pure logic, no AI opponents.",
+  "requestFramePermissions": []
+}
