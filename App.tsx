@@ -257,7 +257,7 @@ export default function App() {
       </main>
 
       <footer className="mt-12 text-slate-500 text-sm">
-        Desarrollado con React & Tailwind
+        Desarrollado por DanielCC
       </footer>
 
       {/* Custom Scrollbar Styles */}
